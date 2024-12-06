@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(rgb(88, 87, 87), white);
+
+  min-height: 100vh;
+}
+
+.container {
+  background-color: aqua;
+  height: 10cm;
+  width: 15cm;
+  text-align: center;
+  border-radius: 5%;
+  margin-left: 11cm;
+  margin-top: 3cm;
+  background-color: aliceblue;
+}
